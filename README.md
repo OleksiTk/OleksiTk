@@ -14,7 +14,7 @@
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-###
+
 ### 📈 GitHub Activity Graph:
 
 [![OleksiTk's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OleksiTk&custom_title=GitHub%20Activity%20Graph&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/OleksiTk)
