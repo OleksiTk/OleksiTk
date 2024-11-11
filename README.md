@@ -1,17 +1,18 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZzM2g5ZnRsem01bThvYm9vejZrcTVua2ozejBva3I0aXh0YmFyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif"  />
+  <img height="300" width="600" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Q2YnY2cGJ5dnBoNmdsYjVxNnp5aTZzcjRxdndpMWY4OHBrN2FoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4xKJUTzWPAVoY/giphy.gif"  />
 </div>
 
 <h1 align="center">Hello and Welcome to my Github</h1>
 
-###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=OleksiTk.OleksiTk&left_color=black&right_color=yellow" />
+</div>
 
-<p align="center">
-    <img width="600" src="assets/github-snake.svg" alt="snake"/>
-  </p>
+### 📈 GitHub Activity Graph:
 
+[![OleksiTk's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OleksiTk&custom_title=GitHub%20Activity%20Graph&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/OleksiTk)
 ###
 
 <h3 align="left">🛠 Technologies:</h3>
