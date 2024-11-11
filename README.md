@@ -7,7 +7,7 @@
 <h1 align="center">Hello and Welcome to my Github</h1>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OleksiTk.OleksiTk&left_color=black&right_color=yellow" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=OleksiTk.OleksiTk&left_color=black&right_color=purple" />
 </div>
 
 ### 📈 GitHub Activity Graph:
