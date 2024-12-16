@@ -40,7 +40,8 @@
   <img height="300" width="600" src="https://gifer.com/embed/7A1Y"  />
 </div>
 
-<iframe src="https://gifer.com/embed/7A1Y" width=480 height=470.417 frameBorder="0" allowFullScreen></iframe>
+![Alt text](https://gifer.com/embed/7A1Y)
+
 
 
 ###
