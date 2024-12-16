@@ -36,9 +36,7 @@
 </div>
 
 
-<div align="center">
-  <img height=470.417 width=480 src="https://i.gifer.com/7A1Y.gif"  />
-</div>
+<iframe src="https://gifer.com/embed/7A1Y" width=480 height=470.417 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
 
 
 ###
