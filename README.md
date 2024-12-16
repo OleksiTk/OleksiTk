@@ -37,10 +37,10 @@
 
 
 <div align="center">
-  <img height="300" width="600" src="https://gifer.com/embed/7A1Y"  />
+  <img height="300" width="600" src="https://tenor.com/uk/view/anime-rikka-finger-spin-finger-spin-gif-19352085"  />
 </div>
 
-![Alt text]([https://gifer.com/embed/7A1Y](https://gifer.com/embed/7A1Y))
+
 
 
 
