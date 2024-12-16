@@ -41,7 +41,7 @@
 </div>
 
 
-
+<div class="tenor-gif-embed" data-postid="19352085" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/anime-rikka-finger-spin-finger-spin-gif-19352085">Anime Rikka Finger Spin GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 ###
