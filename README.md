@@ -44,9 +44,7 @@
 <h1 align="center"> </h1>
 
 
-<div align="center">
-  <img height="400" width="400" src="https://media1.tenor.com/m/WrOlPBLlU9wAAAAd/anime-rikka-finger-spin.gif"  />
-</div>
+
 
 
 
