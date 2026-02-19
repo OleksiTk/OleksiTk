@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://www.gif-vif.com/trending/nanami-kento-resting-on-the-nice-beach-41j7r56gp3vp1d23"  />
+  <img height="300" width="600" src="https://www.gif-vif.com/trending/nanami-kento-resting-on-the-nice-beach-41j7r56gp3vp1d23.gif"  />
 </div>
 
 <h1 align="center">Hello and Welcome to my Github</h1>
