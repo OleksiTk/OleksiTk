@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Q2YnY2cGJ5dnBoNmdsYjVxNnp5aTZzcjRxdndpMWY4OHBrN2FoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4xKJUTzWPAVoY/giphy.gif](https://tenor.com/view/nanami-nanami-kento-nanami-beach-gif-419261357921649897)"  />
+  <img height="300" width="600" src="https://www.gif-vif.com/trending/nanami-kento-resting-on-the-nice-beach-41j7r56gp3vp1d23"  />
 </div>
 
 <h1 align="center">Hello and Welcome to my Github</h1>
