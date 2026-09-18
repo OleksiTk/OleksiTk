@@ -1,53 +1,47 @@
-<br clear="both">
+<table>
+  <tr>
+    <td width="220" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpjqm/giphy.gif" width="180" alt="Cyberpunk Pixel Art" />
+    </td>
+    <td valign="middle">
+      <h1>Hey! 👋</h1>
+      <p>👾 <b>I'm Oleksii.</b></p>
+      <p>🦀 Web & Mobile Developer focused on high-performance backends and clean UI.</p>
+      <p>🌐 <i>Always tinkering with Linux setups and microservices.</i></p>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=OleksiTk&label=PROFILE+VIEWS&style=flat-square&color=8a2be2" alt="Profile Views" />
+        <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img height="300" width="600" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG12aXRuc3NjdXMxaWtvNHlzMDRhczRtZDdub2hmanFqdXN0bXRhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vOJE2GSxvy3AJwtJKd/giphy.gif"  />
-</div>
+---
 
-<h1 align="center">Hello and Welcome to my Github</h1>
+### 🛠️ Tools & Technologies
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OleksiTk.OleksiTk&left_color=black&right_color=purple" />
-</div>
-
-###
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
 </p>
 
-### 📈 GitHub Activity Graph:
+```typescript
+// tools_I_use.ts
 
-[![OleksiTk's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OleksiTk&custom_title=GitHub%20Activity%20Graph&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/OleksiTk)
-###
-
-<h3 align="left">🛠 Technologies:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" height="40" alt="css3 logo"  />
-  <img width="12" />
-</div>
-
-###
-
-
-###
-
-
-<h1 align="center"> </h1>
-
-
-
-
-
-
-
-
-###
+class About extends Me {
+  const myStack = {
+    languages: ["TypeScript", "Dart", "Python", "Java", "SQL"],
+    frameworks: ["Flutter", "React Native", "Next.js", "FastAPI", "Django"],
+    devops_infra: ["Docker", "Linux", "WSL", "RabbitMQ", "CI/CD"],
+    editors_env: ["Neovim", "VS Code", "Hyprland"],
+    databases: ["PostgreSQL", "SQLite", "Redis"]
+  };
+}
