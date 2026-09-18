@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="220" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpjqm/giphy.gif" width="180" alt="Cyberpunk Pixel Art" />
+      ![donut](assets/donut.gif)
     </td>
     <td valign="middle">
       <h1>Hey! 👋</h1>
